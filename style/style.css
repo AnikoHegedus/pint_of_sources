@@ -1,0 +1,45 @@
+body{
+    margin: auto; 
+    padding:0;
+    text-align:center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+
+header{
+    border-bottom: 5px solid #B29600;
+    background-color: #beebf4;
+    height: 100%;
+    padding: 2em;
+    text-align: center;
+}
+
+.header-admin{
+    background-color: #f1bef4;
+    position: relative;
+}
+
+.hello{
+    position: absolute;
+    top: 20px;
+    left:20px;
+}
+
+.logout{
+    position: absolute;
+    top: 20px;
+    right:20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.options{
+    margin: 30px;
+}
+.button {
+
+    margin: 2.5em;
+    border: 3px solid #B29600;
+}
